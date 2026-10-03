@@ -1,0 +1,96 @@
+{
+  "version": "VibeFlow Studio 0.10.0 Windows x64 / ParaView 5.11",
+  "patch_version": "2",
+  "files": [
+    {
+      "payload": "VibeFlowStudio.exe",
+      "path": "bin/VibeFlowStudio.exe",
+      "original": "3bfeb9ca77081ad80983a5e30fab9d7345def5d77d7ee35f353c1716d5b5343e",
+      "patched": "245e109c6b7e7587875e7d1f62ddcfc43302bafef4e52a5a7810713944a3fd45"
+    },
+    {
+      "payload": "pqApplicationComponents-pv5.11.dll",
+      "path": "bin/pqApplicationComponents-pv5.11.dll",
+      "original": "f662b063760a1567c7c1bad4e2cbd410ff52345bbc136d66c644ebd4ff919c7c",
+      "patched": "a0664f3a54de11926a819d5ced8cf663818e7bbff3ac8624f1a0c05206c1cc2b"
+    },
+    {
+      "payload": "pqComponents-pv5.11.dll",
+      "path": "bin/pqComponents-pv5.11.dll",
+      "original": "fe4cd476ecfa122c39adc1504ab6e9aeedf0a0b0e86eb93415d363e439a56add",
+      "patched": "9489397672b0d22ff421824fe075a48c0eea39089604c45c4c0c51d062bf8dc8"
+    },
+    {
+      "payload": "pqWidgets-pv5.11.dll",
+      "path": "bin/pqWidgets-pv5.11.dll",
+      "original": "2b55ffceeaa33ab7ca99f7b3dc237018f1c970573f930b12df5bd26aa1736d31",
+      "patched": "e9477eb0f8c805962d14cebb4cfeb5db76fd1699fae01f488e737437fbbcfaaf"
+    },
+    {
+      "payload": "pqCore-pv5.11.dll",
+      "path": "bin/pqCore-pv5.11.dll",
+      "original": "73d3a90dfef08cd6d0b5c06c717bd3f8ca1536dacb00515d77d6dc2e73c10c51",
+      "patched": "68e58b4d3bbf68955d904ab5b55bd31e794e4f2e7ac5422c2dad6c9c898ab347"
+    },
+    {
+      "payload": "vtkRemotingApplication-pv5.11.dll",
+      "path": "bin/vtkRemotingApplication-pv5.11.dll",
+      "original": "f2e3123ace20746beadb6b7ce78b4744bd33850b82905b1f31046ccf47e8f28e",
+      "patched": "b1795f8b05d1ea1035cebfa39ec288847598a7321dd3fbdd1baa1a4fcf3bbb34"
+    },
+    {
+      "payload": "agent-conversation.html",
+      "path": "resources/agent/agent-conversation.html",
+      "original": "f0d5a76874a598ff026de591cba313c442e4f97c0c01521093d0897db6e81666",
+      "patched": "764c30ab3c42c97d848f79733e8c71ab08f177080fc85a229e9c0e9c42bdbaf6"
+    },
+    {
+      "payload": "cadviewer.html",
+      "path": "resources/cadviewer/index.html",
+      "original": "d0924284ac3f1569daebf3d385b6c43882e8d077613a9f86282bdbace0eac756",
+      "patched": "6b350d747a29e32b91d61edf9c61d75f17226f99c5b7d3d291ccf08b9f76a8d0"
+    },
+    {
+      "payload": "terminal.html",
+      "path": "resources/terminal/index.html",
+      "original": "760142d1c3d9132aad38fbb5e8b0e5d987e42c5382eaf1b6402d48e942e45937",
+      "patched": "381a61c163888d4a20e3f4d1c0369298722120f5c20e0cffa7b6fdcbe156a76c"
+    },
+    {
+      "payload": "three-cad-viewer.js",
+      "path": "resources/cadviewer/vendor/three-cad-viewer/three-cad-viewer.js",
+      "original": "5283d3d386aa149257d12bee408e8e2c14d682b2bdae6d177c8acc4cf563a7b8",
+      "patched": "70ac1f56bc9c9ee487633c6f65908aa1082b63db3a5b412abb54e8359a221e88"
+    },
+    {
+      "payload": "ParaViewSources.xml",
+      "path": "share/paraview-5.11/xmls/ParaViewSources.xml",
+      "original": "d751104bbc3c747a23dde0db90ac08c78e5efeb02375affea8057fb272b669a3",
+      "patched": "bc6951c44fe5b1e33cbd5df22d3babb05c9ee9428eca48f0eb6c5a181f524d23"
+    },
+    {
+      "payload": "ParaViewFilters.xml",
+      "path": "share/paraview-5.11/xmls/ParaViewFilters.xml",
+      "original": "621a33c635dd7f46a0f96209af22eb8e9cb999ffbb42ff4b97509c35ec5fde98",
+      "patched": "a126fd25f40f3889623d9640df6ab591326c7aca2d7d50ca10e612039f3ccefc"
+    },
+    {
+      "payload": "paraview-init.py",
+      "path": "bin/Lib/site-packages/paraview/__init__.py",
+      "original": "467ff85547e8b826caae69ef20f16f154542ed00627af9f0b52825747247f659",
+      "patched": "063b680ffdb90615c7244bf1e92573fbd63485a9ac4a958e1873a65bbd3926e3"
+    },
+    {
+      "payload": "servermanager.py",
+      "path": "bin/Lib/site-packages/paraview/servermanager.py",
+      "original": "6544d4b1373b50b854782e43f2b58885e1fa01a3341d810ff08d23c71f82141d",
+      "patched": "c29609f81b2200333f753558d0d899cbe8eee117b1aac3154765bc6cd2145cdc"
+    },
+    {
+      "payload": "smtrace.py",
+      "path": "bin/Lib/site-packages/paraview/smtrace.py",
+      "original": "420881e008bd6eca40b67eb44f706ac05460cc1549aec91ced444252a92562d4",
+      "patched": "3595a9911ec79c1eff1f01988139c76710f8599a79e87cdfa3801ed353e9800f"
+    }
+  ]
+}

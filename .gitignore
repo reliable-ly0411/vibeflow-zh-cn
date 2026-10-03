@@ -1,0 +1,13 @@
+originals/
+work/
+.vfzh/
+.venv/
+__pycache__/
+*.pyc
+*.exe
+*.dll
+*.pyd
+*.zip
+*.log
+backup*/
+installation*.json

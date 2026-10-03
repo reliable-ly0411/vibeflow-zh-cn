@@ -1,0 +1,5 @@
+This is an unofficial localization project. It is not affiliated with or endorsed by VibeFlow Studio, Kitware, or The Qt Company.
+
+The MIT license covers original patch tooling and original translation contributions in this repository. It does not relicense VibeFlow Studio, ParaView, VTK, Qt, third-party libraries, product names, or source-language text belonging to their respective owners.
+
+No application binaries, complete upstream Python modules, original application web pages, activation files, or personal settings are distributed here. Generated files are derived locally from the user's own compatible installation and remain subject to the applicable upstream licenses. Preserve upstream notices in generated files.

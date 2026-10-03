@@ -1,0 +1,1194 @@
+Theme	主题
+Theme: %1	主题：%1
+UI Scale	界面缩放
+Workspace	工作区
+Geometry	几何
+Properties	属性
+Inspector	检查器
+Pipeline	处理管线
+Information	信息
+Statistics Inspector	统计信息检查器
+Color Map Editor	色彩映射编辑器
+Find Data	查找数据
+Multi-block Inspector	多块数据检查器
+Time Inspector	时间检查器
+Animation View	动画视图
+Comparative View Inspector	对比视图检查器
+Collaboration Panel	协作面板
+Memory Inspector	内存检查器
+Lights Inspector	光源检查器
+Selection Editor	选择编辑器
+Material Editor	材质编辑器
+Display	显示
+View	视图
+Python Shell	Python 控制台
+Output Messages	输出消息
+Open Case...	打开算例…
+Create Case...	新建算例…
+License...	许可证…
+Setup...	设置…
+Check for Updates...	检查更新…
+File	文件
+Edit	编辑
+Sources	数据源
+Filters	过滤器
+Extractors	提取器
+Macros	宏
+Tools	工具
+Help	帮助
+VibeFlow Documentation	VibeFlow 使用文档
+Third-Party Notices	第三方声明
+About VibeFlow Studio	关于 VibeFlow Studio
+Open Case	打开算例
+Choose Parent Directory	选择父目录
+Case folder name:	算例文件夹名称：
+Create Case	新建算例
+Case folder name cannot contain path separators.	算例文件夹名称不能包含路径分隔符。
+Invalid Case Name	算例名称无效
+Target case directory already exists:	目标算例目录已存在：
+Case Exists	算例已存在
+Cannot find VibeFlow/Studio/vibeFlow/StandardCase template.	找不到 VibeFlow/Studio/vibeFlow/StandardCase 模板。
+Template Not Found	未找到模板
+Create Case Failed	新建算例失败
+Failed to create target directory:	无法创建目标目录：
+Created VibeFlow case from template: %1	已从模板创建 VibeFlow 算例：%1
+Created empty VibeFlow case folder: %1	已创建空 VibeFlow 算例文件夹：%1
+Case directory does not exist: %1	算例目录不存在：%1
+Opened case directory: %1	已打开算例目录：%1
+Case ready: %1	算例已就绪：%1
+Routed mesh source to OpenFOAM mesh view: %1	已在 OpenFOAM 网格视图中打开网格源：%1
+Mesh Source Artifact	网格源文件
+CAD Exchange Artifact	CAD 交换文件
+Unsupported Artifact	不支持的文件
+Current viewer routing does not support this file yet:	当前查看器尚不支持此文件：
+Unable to open media file with the system player: %1	无法使用系统播放器打开媒体文件：%1
+Unable to open Office file with the system default application: %1	无法使用系统默认程序打开 Office 文件：%1
+Directory selected: %1	已选择目录：%1
+VibeFlow documentation is not available in this installation.	当前安装中没有 VibeFlow 使用文档。
+Third-party notices are not available in this installation.	当前安装中没有第三方声明。
+Added to chat: %1	已添加到对话：%1
+Open a VibeFlow case first.	请先打开 VibeFlow 算例。
+CadQuery geometry execution is already running.	CadQuery 几何任务已在运行。
+CadQuery geometry script does not exist: %1	CadQuery 几何脚本不存在：%1
+Python with CadQuery was not found. Open Setup, select the WSL or Windows Python runtime, click Test, then Save Paths.	未找到安装 CadQuery 的 Python。请打开设置，选择 WSL 或 Windows Python 运行环境，点击测试后保存路径。
+CadQuery geometry runner was not found.	未找到 CadQuery 几何运行器。
+CadQuery preview updated.	CadQuery 几何预览已更新。
+CadQuery geometry exported.	CadQuery 几何已导出。
+CadQuery geometry failed with exit code %1. See %2	CadQuery 几何任务失败，退出码 %1。详见 %2
+Geometry preview failed. See A-geo/logs/cadquery_geometry_executor.log.	几何预览失败。请查看 A-geo/logs/cadquery_geometry_executor.log。
+Geometry viewer frontend failed to load.	几何查看器前端加载失败。
+Geometry viewer frontend not found.	未找到几何查看器前端。
+VibeFlow Dark	VibeFlow 深色
+VibeFlow Light	VibeFlow 浅色
+Minimize	最小化
+Maximize / Restore	最大化／还原
+Close	关闭
+Node Editor	节点编辑器
+Open Artifact	打开文件
+Rebuild Geometry	重建几何
+Export Geometry	导出几何
+No Case Open	尚未打开算例
+Open or create a VibeFlow case before rebuilding geometry.	重建几何前，请先打开或新建 VibeFlow 算例。
+Open or create a VibeFlow case before exporting geometry.	导出几何前，请先打开或新建 VibeFlow 算例。
+Setup	设置
+VibeFlow Setup	VibeFlow 设置
+Setup Script Not Found	未找到设置脚本
+Cannot find vibeflow-env-detect in the installation or source tree.	在安装目录或源码目录中未找到 vibeflow-env-detect。
+UI scale will apply after restart: %1	界面缩放将在重启后生效：%1
+Follow Windows	跟随 Windows
+Follow Windows Scaling (Recommended)	跟随 Windows 缩放（推荐）
+Save	保存
+Cancel	取消
+Refresh	刷新
+Active	当前使用
+Use	设为当前
+Delete	删除
+Add	添加
+Name	名称
+Provider	服务提供方
+Base URL	接口地址（Base URL）
+Model	模型
+API key	API 密钥
+Test	测试
+Version	版本
+State	状态
+Dependency	依赖项
+Status	状态
+Path	路径
+Details	详细信息
+Copy	复制
+Dependency Test	依赖项测试
+Dependency Details	依赖项详情
+Dependency Test Results	依赖项测试结果
+Click a dependency to view paths, versions, and diagnostic details	点击依赖项以查看路径、版本及诊断详情
+Click to view details	点击查看详情
+No extra checks required.	无需额外检查。
+No detail available.	暂无详细信息。
+No extra checks are required for this item.	此项目无需额外检查。
+No extra details are available yet. Use Refresh after installing or editing the path.	暂无详细信息。安装或修改路径后，请点击刷新。
+Not configured	未配置
+Ready	就绪
+Missing / incomplete	缺失／不完整
+Not installed (Windows only)	未安装（仅限 Windows）
+Test the current path and update this dependency status.	测试当前路径并更新此依赖项的状态。
+Add model backend	添加模型后端
+Edit model backend	编辑模型后端
+Model profile	模型配置
+Profile name	配置名称
+Model provider	模型提供方
+Docs / key page	文档／密钥页面
+Global Settings	全局设置
+Global editor font size	编辑器全局字号
+Inserted and copied path format	插入和复制的路径格式
+Line ending on save	保存时的换行格式
+Editor word wrap	编辑器自动换行
+LaTeX IntelliSense	LaTeX 智能补全（IntelliSense）
+OpenFOAM IntelliSense	OpenFOAM 智能补全（IntelliSense）
+Enabled	启用
+Backend Integrations	后端集成
+Integrations	集成工具
+Software overview	软件简介
+Website	官方网站
+How to fill this path	路径填写说明
+Custom Backend	自定义后端
+Custom Backend Software	自定义后端软件
+Add Backend Software	添加后端软件
+Backend name (%1)	后端名称（%1）
+Current path (%1)	当前路径（%1）
+Windows path (%1)	Windows 路径（%1）
+WSL path (%1)	WSL 路径（%1）
+WSL distro	WSL 发行版
+Fill both backend software name and entry path.	请填写后端软件名称和入口路径。
+Delete this custom backend	删除此自定义后端
+Environment paths saved.	环境路径已保存。
+No Download Link	无下载链接
+No download link	无下载链接
+Open Download Page	打开下载页面
+Official download / installation page:	官方下载／安装页面：
+This item has no built-in download link. Fill the path manually.	此项目没有内置下载链接，请手动填写路径。
+Save and update failed.	保存和更新失败。
+Detect local tools, choose custom paths, and initialize the agent context.	检测本地工具、选择自定义路径并初始化智能体上下文。
+Detected %1/%2 setup items. Select a dependency on the left, edit its path or open the official download page, then save.	已检测到 %1/%2 个配置项。请在左侧选择依赖项，编辑路径或打开官方下载页面，然后保存。
+Test failed: model name is empty.	测试失败：模型名称为空。
+Test failed: models endpoint is unavailable.	测试失败：模型列表接口不可用。
+Test failed: chat completions endpoint is unavailable.	测试失败：聊天补全接口不可用。
+Test passed: models and chat completions endpoints are available.	测试通过：模型列表和聊天补全接口均可用。
+Context capacity detected from model metadata: %1 tokens	从模型元数据检测到上下文容量：%1 tokens
+Models request timed out.	模型列表请求超时。
+Chat request timed out.	聊天请求超时。
+Could not start curl or wsl.exe.	无法启动 curl 或 wsl.exe。
+No dedicated test exists for this dependency.	此依赖项没有专用测试。
+Auto Preview	自动预览
+Edges	边线
+Transparent	透明
+Rebuild	重建
+Export	导出
+Fit	适合窗口
+Pending	待处理
+Completed	已完成
+Current	当前
+Open Editors (%1 unsaved)	已打开的编辑器（%1 个未保存）
+Open Editors	已打开的编辑器
+Save all	全部保存
+Turn off all	全部关闭
+Add to chat	添加到对话
+Copy Path	复制路径
+Copy Relative Path	复制相对路径
+Show in File Explorer	在文件资源管理器中显示
+Calculating size...	正在计算大小…
+Type	类型
+Folder	文件夹
+Location	位置
+Size	大小
+Contains	包含
+Modified	修改时间
+Created	创建时间
+Unavailable	不可用
+Readable	可读取
+Writable	可写入
+Yes	是
+Multiple items	多个项目
+Unknown	未知
+Paste	粘贴
+Thinking	思考中
+Preparing tool	正在准备工具
+Receiving tool arguments...	正在接收工具参数…
+Choose a file or folder and insert @path	选择文件或文件夹并插入 @路径
+Agent	智能体
+Ask	问答
+Plan	计划
+Goal	目标
+Select folder	选择文件夹
+Select file	选择文件
+Start Your VibeFlow!	开始使用 VibeFlow！
+Tool	工具
+Context	上下文
+System prompt	系统提示词
+Compressed summary	压缩摘要
+Tool definitions	工具定义
+Recent conversation	最近对话
+Conversation	对话
+Current input	当前输入
+Archived raw history (not sent)	已归档原始历史（未发送）
+Output and protocol reserve	输出与协议预留
+Compress Context	压缩上下文
+Compress older conversation turns now and keep recent messages editable.	立即压缩较早的对话，保留最近消息以供编辑。
+Context compressed	上下文已压缩
+Capacity unknown                            ~%1 tokens used	容量未知                            已用约 %1 tokens
+Read File	读取文件
+List Files	列出文件
+Search Text	搜索文本
+Web Search	网页搜索
+Web Fetch	读取网页
+Running in Agent Host...	正在智能体宿主中执行…
+Approved, running	已批准，正在执行
+Rejected	已拒绝
+Approve	批准
+Reject	拒绝
+File Update Proposal	文件更新提议
+Text Replacement Proposal	文本替换提议
+Command execution rejected by user.	用户已拒绝执行命令。
+Command execution requires approval, but the approval UI is unavailable. No command was run.	命令执行需要批准，但批准界面不可用。未执行任何命令。
+Command is empty.	命令为空。
+The requested tool is not available.	请求的工具不可用。
+Unknown tool: %1	未知工具：%1
+Plan updated: %1/%2 completed.	计划已更新：已完成 %1/%2 项。
+Goal update rejected: no active goal has been established.	目标更新被拒绝：尚未建立进行中的目标。
+No earlier conversation is available to compress yet.	暂时没有可压缩的早期对话。
+Compression would not reduce the estimated request size.	此次压缩不会减小预计请求大小。
+Open VibeFlow Agent	打开 VibeFlow 智能体
+Open Codex CLI	打开 Codex CLI
+Open Claude Code	打开 Claude Code
+Open opencode	打开 opencode
+Open Kimi Code	打开 Kimi Code
+Open Windows PowerShell	打开 Windows PowerShell
+Open Ubuntu WSL	打开 Ubuntu WSL
+Quit	退出
+Pen	画笔
+Arrow	箭头
+Rect	矩形
+Ellipse	椭圆
+Undo	撤销
+Clear	清空
+Save and add to chat	保存并添加到对话
+Drag to select a screenshot region. Esc to quit.	拖动选择截图区域，按 Esc 退出。
+Command or prompt	命令或提示词
+Send to the current terminal	发送到当前终端
+Command	命令
+Screenshot capture failed.	截图失败。
+Could not choose a screenshot filename.	无法选择截图文件名。
+Terminal	终端
+Close terminal	关闭终端
+Open the VibeFlow Agent for the current case.	为当前算例打开 VibeFlow 智能体。
+Start a normal interactive shell in the current case directory.	在当前算例目录中启动交互式命令行。
+Open %1 in Windows PowerShell	在 Windows PowerShell 中打开 %1
+Open %1 in WSL	在 WSL 中打开 %1
+Markdown Preview	Markdown 预览
+Show replace	显示替换
+Find	查找
+Match case	区分大小写
+Match whole word	全字匹配
+Previous match	上一个匹配
+Next match	下一个匹配
+Replace	替换
+Replace current match	替换当前匹配
+All	全部
+Replace all matches	替换全部匹配
+No results	无结果
+Replaced %1	已替换 %1 项
+Hide replace	隐藏替换
+Untitled	未命名
+Convert	转换
+Convert this Markdown document	转换此 Markdown 文档
+Convert to PDF	转换为 PDF
+Convert to Word	转换为 Word
+File changed on disk. Save or Reload to resolve.	磁盘上的文件已更改，请保存或重新加载以解决冲突。
+Apply to Text	应用到文本
+Reparse	重新解析
+Jump to Text	跳转到文本
+Sections	章节
+No OpenFOAM dictionary entries were found.	未找到 OpenFOAM 字典条目。
+Empty dictionary.	字典为空。
+Line %1	第 %1 行
+Jump to line %1	跳转到第 %1 行
+OpenFOAM Dictionary Help	OpenFOAM 字典帮助
+No form changes.	表单未更改。
+Document conversion	文档转换
+Document conversion completed: %1	文档转换完成：%1
+Document conversion failed: %1	文档转换失败：%1
+Document conversion failed	文档转换失败
+Preparing document conversion...	正在准备文档转换…
+Result files	结果文件
+Open folder	打开文件夹
+Run in background	后台运行
+Source: %1	来源：%1
+Conversion completed.	转换完成。
+Conversion failed: %1	转换失败：%1
+Failed	失败
+MinerU file limit	MinerU 文件大小限制
+MinerU accepts files up to 200 MB. This PDF is %1 MB.	MinerU 支持最大 200 MB 的文件。此 PDF 为 %1 MB。
+Replace converted output	替换转换结果
+MinerU API Key Settings	MinerU API 密钥设置
+MinerU API Key	MinerU API 密钥
+Personal API Key (optional)	个人 API 密钥（可选）
+Paste a MinerU API token; leave blank to use the built-in key	粘贴 MinerU API Token；留空则使用内置密钥
+Show key	显示密钥
+Downloading the MinerU conversion result...	正在下载 MinerU 转换结果…
+Downloading MinerU result: %1%	正在下载 MinerU 结果：%1%
+Uploading the PDF to MinerU...	正在向 MinerU 上传 PDF…
+Extracting the complete MinerU result...	正在解压完整 MinerU 结果…
+Converting Markdown to Word with Pandoc...	正在使用 Pandoc 将 Markdown 转为 Word…
+MinerU parsing: %1 / %2 pages.	MinerU 正在解析：%1 / %2 页。
+MinerU parsing is queued...	MinerU 解析正在排队…
+MinerU is packaging the conversion result...	MinerU 正在打包转换结果…
+VibeFlow Studio Update	VibeFlow Studio 更新
+An update check is already running.	正在检查更新，请稍候。
+VibeFlow Studio %1 is up to date.	VibeFlow Studio %1 已是最新版本。
+Downloading the VibeFlow Studio update...	正在下载 VibeFlow Studio 更新…
+Account	账号
+Local License	本地许可证
+Current device	当前设备
+Valid until	有效期至
+Device allowance	可用设备名额
+Sign in with browser	通过浏览器登录
+Refresh online	在线刷新
+Continue offline	继续离线使用
+Sign out	退出账号
+Open account page	打开账号页面
+VibeFlow Authorization	VibeFlow 授权
+VibeFlow License	VibeFlow 许可证
+License Key	许可证密钥
+Import File...	导入文件…
+Activate	激活
+Start Trial	开始试用
+Clear Key	清除密钥
+Import License Key	导入许可证密钥
+Import Failed	导入失败
+License Key Required	需要许可证密钥
+License Not Activated	许可证未激活
+License Updated	许可证已更新
+License ID	许可证 ID
+Edition	版本
+Activated	激活时间
+Expires	到期时间
+Never	永不过期
+Features	功能
+Account service unavailable	账号服务不可用
+Account subscription active	账号订阅有效
+Offline access available	离线访问可用
+Using offline access	正在离线使用
+Waiting for browser approval	等待浏览器授权
+Checking account	正在检查账号
+Subscription expired	订阅已到期
+Device removed	设备已移除
+Device slots full	设备名额已满
+Subscription inactive	订阅未激活
+Not signed in	未登录
+Account authorization needs attention	账号授权需要处理
+Workspace locked until license activation.	工作区将在许可证激活后解锁。
+License Upgrade Required	需要升级许可证
+LaTeX Formula Editor	LaTeX 公式编辑器
+Choose structures and symbols, edit LaTeX, and inspect the result live.	选择结构与符号、编辑 LaTeX 源码并实时查看排版效果。
+LaTeX source	LaTeX 源码
+Live preview	实时预览
+Enter a LaTeX formula or choose a structure or symbol above…	输入 LaTeX 公式，或从上方选择结构与符号…
+Capture OCR	截图识别（OCR）
+Recognize a desktop formula with the built-in local model	使用内置本地模型识别桌面上的公式
+Line break	换行
+Label	标签
+Insert formula	插入公式
+No wrapper	不添加定界符
+Choose the wrapper applied when inserting the formula	选择插入公式时使用的定界符
+LaTeX Table Generator	LaTeX 表格生成器
+Edit cells like a spreadsheet, format the selection, and insert clean LaTeX code.	像电子表格一样编辑单元格、设置选区格式并插入规范的 LaTeX 代码。
+Rows	行数
+Columns	列数
+Add row	添加行
+Remove selected rows	删除选中行
+Add column	添加列
+Remove selected columns	删除选中列
+Table style	表格样式
+Cells	单元格
+Align selected cells left	选中单元格左对齐
+Center selected cells	选中单元格居中
+Align selected cells right	选中单元格右对齐
+Toggle bold for selected cells	切换选中单元格的粗体
+Toggle italic for selected cells	切换选中单元格的斜体
+Merge selected cells	合并选中单元格
+Split current merged cell	拆分当前合并单元格
+Caption	标题
+Optional table caption	可选表格标题
+Placement	放置位置
+Bold header row	表头加粗
+Fit page width	适应页宽
+Escape text	转义文本
+Escape LaTeX special characters. Disable this when cells intentionally contain LaTeX code.	转义 LaTeX 特殊字符。若要在单元格中直接编写 LaTeX 代码，请关闭此项。
+Generated LaTeX	生成的 LaTeX 代码
+Copy code	复制代码
+Copy the generated LaTeX code	复制生成的 LaTeX 代码
+Insert LaTeX Table	插入 LaTeX 表格
+Full grid	完整网格
+Outer border	外边框
+Professional (booktabs)	专业三线表（booktabs）
+No borders	无边框
+No additional package is required by the current table.	当前表格不需要额外宏包。
+Required in the preamble: %1	导言区需要：%1
+LaTeX Figure Layout	LaTeX 图片排版
+Choose local images, preview and resize a single- or multi-figure layout, then insert clean LaTeX code.	选择本地图片，预览并调整单图或多图布局，然后插入规范的 LaTeX 代码。
+Images	图片
+Total width	总宽度
+Gap	间距
+Main caption	总标题
+Optional main caption	可选总标题
+Center	居中
+Subcaptions	子图标题
+Keep aspect	保持宽高比
+Escape captions	转义标题
+Figure layout (drag dividers to resize figures in a row)	图片布局（拖动分隔线调整同行图片的大小）
+Insert LaTeX Figure	插入 LaTeX 图片
+Choose image…	选择图片…
+Subcaption (optional)	子图标题（可选）
+Row share	行内占比
+Choose images	选择图片
+No file selected	未选择文件
+Rendering the first PDF page…	正在生成 PDF 首页预览…
+Preamble: %1	导言区：%1
+Enter or select a formula above	请在上方输入或选择公式
+Large operators	大型运算符
+Greek letters	希腊字母
+Lowercase	小写
+Uppercase	大写
+Brackets	括号
+Matrices	矩阵
+Arrows	箭头
+Left	左
+Right	右
+Up	上
+Down	下
+Both	双向
+Double left	双线左箭头
+Double right	双线右箭头
+Equivalent	等价
+Maps to	映射到
+Hook right	向右钩箭头
+Long right	向右长箭头
+Roots	根式
+Square root	平方根
+Nth root	n 次根
+Cube root	立方根
+Fractions	分式
+Fraction	分数
+Derivative	导数
+Partial	偏导数
+Binomial	二项式
+Display fraction	行间分数
+Text fraction	行内分数
+Evaluation	代入求值
+Scripts	上下标
+Superscript	上标
+Subscript	下标
+Prescript	前置上下标
+Overset	上方标注
+Underset	下方标注
+Sum	求和
+Product	乘积
+Integral	积分
+Double integral	二重积分
+Triple integral	三重积分
+Contour	闭合路径积分
+Big union	大型并集
+Big intersection	大型交集
+Big direct sum	大型直和
+Functions	函数
+Limit	极限
+Logarithm	对数
+Natural log	自然对数
+Exponential	指数
+Maximum	最大值
+Minimum	最小值
+Arg max	最大值对应参数
+Arg min	最小值对应参数
+Determinant	行列式
+GCD	最大公约数
+Rank	秩
+Trigonometry	三角函数
+Sine	正弦
+Cosine	余弦
+Tangent	正切
+Arcsine	反正弦
+Sinh	双曲正弦
+Cosh	双曲余弦
+Cotangent	余切
+Secant	正割
+Cosecant	余割
+Arccosine	反余弦
+Arctangent	反正切
+Tanh	双曲正切
+Accents	修饰符
+Dot	点号
+Double dot	双点号
+Hat	帽号
+Bar	横线
+Vector	向量
+Tilde	波浪号
+Overline	上划线
+Underbrace	下方大括号
+Wide hat	宽帽号
+Wide tilde	宽波浪号
+Underline	下划线
+Overbrace	上方大括号
+Relations & sets	关系与集合
+Equal	等于
+Not equal	不等于
+Approximately	约等于
+Proportional	正比于
+In	属于
+Not in	不属于
+Subset	子集
+Union	并集
+Intersection	交集
+Empty set	空集
+For all	任意
+Exists	存在
+Infinity	无穷大
+Angle	角
+Nabla	微分算子
+Similar	相似
+Perpendicular	垂直
+Parallel	平行
+Superset	超集
+Set difference	差集
+Direct sum	直和
+Tensor product	张量积
+Circled dot	圆点运算符
+Compile	编译
+Choose LaTeX compile recipe	选择 LaTeX 编译流程
+Compile current TeX file with selected recipe	使用所选流程编译当前 TeX 文件
+View PDF	查看 PDF
+Open or jump to the generated PDF	打开或跳转到生成的 PDF
+Document structure	文档结构
+Section	节
+Subsection	小节
+Subsubsection	子小节
+Paragraph	段落
+Inline	行内
+Equation	公式
+Numbered equation	带编号公式
+Align	对齐
+Aligned equations	对齐公式组
+Root	根式
+Power	幂
+Summation with limits	带上下限的求和
+Definite integral	定积分
+Partial derivative	偏导数
+Open LaTeX formula editor	打开 LaTeX 公式编辑器
+Open LaTeX figure layout	打开 LaTeX 图片排版器
+Open LaTeX table generator	打开 LaTeX 表格生成器
+Toggle Comment	切换注释
+OpenFOAM Log Preview	OpenFOAM 日志预览
+Large File Preview	大文件预览
+Loading OpenFOAM Log…	正在加载 OpenFOAM 日志…
+Loading Large File…	正在加载大文件…
+OpenFOAM Log	OpenFOAM 日志
+Large File	大文件
+Loading OpenFOAM Log… %1%	正在加载 OpenFOAM 日志… %1%
+Loading Large File… %1%	正在加载大文件… %1%
+%1 · Large File	%1 · 大文件
+Python Run	运行 Python
+LaTeX Compile	LaTeX 编译
+LaTeX Compile Failed	LaTeX 编译失败
+Cannot find Python. Configure Python in Setup or make it available in PATH/WSL PATH.	未找到 Python。请在设置中配置，或将其加入 PATH／WSL PATH。
+Cannot find latexmk. Configure it in Setup or make it available in PATH/WSL PATH.	未找到 latexmk。请在设置中配置，或将其加入 PATH／WSL PATH。
+Cannot find xelatex. Configure it in Setup or make it available in PATH/WSL PATH.	未找到 xelatex。请在设置中配置，或将其加入 PATH／WSL PATH。
+Cannot find lualatex. Configure it in Setup or make it available in PATH/WSL PATH.	未找到 lualatex。请在设置中配置，或将其加入 PATH／WSL PATH。
+Cannot find pdflatex. Configure it in Setup or make it available in PATH/WSL PATH.	未找到 pdflatex。请在设置中配置，或将其加入 PATH／WSL PATH。
+Cannot find bibtex. Configure it in Setup or make it available in PATH/WSL PATH.	未找到 bibtex。请在设置中配置，或将其加入 PATH／WSL PATH。
+No terminal program configured.	尚未配置终端程序。
+About	关于
+Add current filter	添加当前过滤器
+Connect...	连接…
+Copy Screenshot to Clipboard	复制截图到剪贴板
+Create Custom Filter...	创建自定义过滤器…
+Disconnect	断开连接
+Finish	完成
+First Frame	第一帧
+Hide All	全部隐藏
+Import	导入
+Isometric	等轴测视图
+Last Frame	最后一帧
+Load State...	加载状态…
+Next >	下一步 >
+Next Frame	下一帧
+OK	确定
+Open	打开
+Open...	打开…
+Play	播放
+Recent Files	最近文件
+Redo	重做
+Remove	移除
+Reset	重置
+Reverse	反向播放
+Save State...	保存状态…
+Show All	全部显示
+X Normal	X 轴正视
+Y Normal	Y 轴正视
+Z Normal	Z 轴正视
+Loop	循环
+Exit	退出
+Previous Frame	上一帧
+# of Cells	单元数
+# of Edges	边数
+# of Points	点数
+# of Rows	行数
+# of TimeSteps	时间步数
+# of Vertices	顶点数
+About ParaView	关于 ParaView
+Active Variable Controls	当前变量控制
+Add Input	添加输入
+Add Light	添加光源
+Add Log	添加日志
+Add Output	添加输出
+Add Property	添加属性
+Add Server	添加服务器
+Add...	添加…
+Adjusting Camera	调整相机
+Along Camera Axis	沿相机轴
+Along X Axis	沿 X 轴
+Along Y Axis	沿 Y 轴
+Along Z Axis	沿 Z 轴
+Animation Time	动画时间
+Annotations	标注
+Append new	追加新项
+Application	应用程序
+Apply	应用
+Apply to Camera	应用到相机
+Apply to camera	应用到相机
+Assembly	装配结构
+Assign	分配
+Auto Apply	自动应用
+Auto-update	自动更新
+Available Filters	可用过滤器
+Available Input Ports	可用输入端口
+Axis	轴
+Azimuth	方位角
+Back	返回
+Base	基准
+Bold	粗体
+Bottom Center	底部居中
+Bottom Left Corner	左下角
+Bottom Right Corner	右下角
+Bottom-Left	左下
+Bottom-Right	右下
+Bounds	边界范围
+Camera Animation	相机动画
+Camera Controls	相机控制
+Camera Focus	相机焦点
+Camera Normal	相机法向
+Camera Parameters	相机参数
+Camera Position	相机位置
+Camera Redo	重做相机操作
+Camera Undo	撤销相机操作
+Categories	分类
+Cell Labels	单元标签
+Center of Rotation	旋转中心
+Center on Bounds	按边界居中
+Center on Selection	按选区居中
+Change Input...	更改输入…
+Change File	更改文件
+Change File...	更改文件…
+Change Input Dialog	更改输入
+Change a Filter's Input	更改过滤器输入
+Chart Axes	图表坐标轴
+Choose Expression	选择表达式
+Choose Preset	选择预设
+Choose Server	选择服务器
+Choose preset	选择预设
+Circle	圆形
+Clear All	全部清空
+Clear Logs	清空日志
+Close (Esc)	关闭（Esc）
+Close without rescaling	关闭且不重设范围
+Close without saving	不保存并关闭
+Closed Spline	闭合样条曲线
+Color	颜色
+Color 2	颜色 2
+Colors	颜色
+Command Preview	命令预览
+Command Template	命令模板
+Compute data histogram	计算数据直方图
+Cone Angle	锥角
+Configuration	配置
+Configuration Name	配置名称
+Configure	配置
+Configure ...	配置…
+Configure Custom Viewpoints	配置自定义视点
+Connect	连接
+Connect ID	连接 ID
+Connection Information	连接信息
+Contents	内容
+Copied Selection	已复制的选区
+Copy Active Selection	复制当前选区
+Copy Properties	复制属性
+Copy display properties	复制显示属性
+Copy properties	复制属性
+Copy to Clipboard	复制到剪贴板
+Copy view properties	复制视图属性
+Create Custom Filter	创建自定义过滤器
+Create Orbit	创建环绕轨迹
+Create Selection	创建选区
+Cross	十字
+Current Time	当前时间
+Custom Filter Manager	自定义过滤器管理器
+Custom Filter Name	自定义过滤器名称
+Custom Resolution	自定义分辨率
+Custom Viewpoints	自定义视点
+Dash	虚线
+Dash Dot	点划线
+Dash Dot Dot	双点划线
+Data Arrays	数据数组
+Data Grouping	数据分组
+Data Movement	数据传输
+Data Producer	数据生成器
+Data Statistics	数据统计
+Delete All	全部删除
+Delete Downstream Pipeline	删除下游管线
+Delete Server	删除服务器
+Delete all annotations	删除全部标注
+Delete all keyframe	删除全部关键帧
+Delete selected keyframe	删除选中关键帧
+Delete selection and all downstream filters	删除选中项及全部下游过滤器
+Description	说明
+Dialog	对话框
+Diamond	菱形
+Display Data Histogram	显示数据直方图
+Don't show this window again	不再显示此窗口
+Edit 2D Transfer Function	编辑二维传递函数
+Edit Color Map	编辑色彩映射
+Edit Interactive Label Properties	编辑交互式标签属性
+Edit Label Properties	编辑标签属性
+Edit Python Animation Track	编辑 Python 动画轨道
+Edit Server	编辑服务器
+Edit Sources	编辑数据源
+Edit Transfer Function	编辑传递函数
+Edit color legend properties	编辑颜色图例属性
+Edit color map	编辑色彩映射
+Edit...	编辑…
+Element Type	元素类型
+Elevation	仰角
+Enable	启用
+Enable Opacity Mapping For Surfaces	启用表面不透明度映射
+Enable opacity mapping for surfaces	启用表面不透明度映射
+Enable/Disable Light Kit	启用／禁用光源组
+Enter Parameter Range	输入参数范围
+Example Visualizations	可视化示例
+Export Animated Scene...	导出动画场景…
+Export Scene...	导出场景…
+Export Spreadsheet	导出电子表格
+Export...	导出…
+Expression	表达式
+Extents	范围
+Extract	提取
+Extract Blocks	提取数据块
+Eye Angle	视角
+Favorites	收藏夹
+Favorites Manager	收藏夹管理器
+File Properties	文件属性
+Fill	填充
+Filter Execution	过滤器执行
+Find Data...	查找数据…
+Flip Vector	反转向量
+Focal Disk	焦面圆盘
+Focal Distance	焦距
+Focal Point	焦点
+Focus Control Points	焦点控制点
+Form	表单
+Freeze	冻结
+Frequency	频率
+Generate Number Series	生成数列
+Geometric (common ratio)	等比数列（公比）
+Geometric (samples)	等比数列（样本数）
+Getting Started Guide	入门指南
+Global Filter	全局过滤器
+Gradient	梯度
+Hierarchy	层级结构
+Host	主机
+Ignore Time	忽略时间
+Image	图像
+Import Selected	导入选中项
+Import...	导入…
+Input Name	输入名称
+Input Property	输入属性
+Interactive Selection Color	交互式选区颜色
+Interactive View Link	交互式视图关联
+Interactive View Link Parameters	交互式视图关联参数
+Invert selection	反选
+Invert the selection	反转选区
+Invert the transfer functions	反转传递函数
+Italics	斜体
+Item	项目
+Layout:	布局：
+Left Button	鼠标左键
+Light Inspector	光源检查器
+Light Kit	光源组
+Light Position	光源位置
+Light controls	光源控制
+Lights Editor	光源编辑器
+Line Style	线型
+Line Thickness	线宽
+Linear	线性
+Link Selected Elements	关联选中元素
+Link with selection	与选区关联
+Load	加载
+Load New ...	加载新项…
+Load Palette	加载配色方案
+Load Path Tracer Materials...	加载路径追踪材质…
+Load Selected	加载选中项
+Load Servers	加载服务器
+Load Window Arrangement...	加载窗口布局…
+Load a color palette	加载配色方案
+Load camera properties.	加载相机属性。
+Local Plugins	本地插件
+Lock View to Custom Size	将视图锁定为自定义尺寸
+Lock aspect ratio	锁定宽高比
+Lock axis:	锁定轴：
+Log Viewer	日志查看器
+Logarithmic	对数
+Main Controls	主要控制
+Maintain Luminance	保持亮度
+Manipulate Camera	操作相机
+Manual	手动
+Manually edit transfer functions	手动编辑传递函数
+Marker Size	标记大小
+Marker Style	标记样式
+Match Case	区分大小写
+Maximum X	X 最大值
+Maximum Y	Y 最大值
+Maximum Z	Z 最大值
+Middle Button	鼠标中键
+Minimum X	X 最小值
+Minimum Y	Y 最小值
+Minimum Z	Z 最小值
+Mode:	模式：
+Move Down	下移
+Move Up	上移
+MultiBlock Inspector	多块数据检查器
+Name:	名称：
+New	新建
+New Log	新建日志
+None	无
+Normal	法向
+Normal Array	法向数组
+Number of Bins:	分箱数：
+Number of Samples:	样本数：
+Object	对象
+Object Link	对象关联
+Offset	偏移
+Online Documentation	在线文档
+Only vary horizontally	仅沿水平方向变化
+Only vary vertically	仅沿垂直方向变化
+Opacities	不透明度
+Opacity	不透明度
+Opacity:	不透明度：
+Open Data With...	选择数据打开方式…
+Orbit Parameters	环绕轨迹参数
+Ordering Array	排序数组
+Origin	原点
+Output Name	输出名称
+Output Port	输出端口
+Parallel Scale	平行投影缩放
+Parameter	参数
+Parameters	参数
+Participant	参与者
+Paste Properties	粘贴属性
+Paste copied display properties	粘贴已复制的显示属性
+Paste copied properties	粘贴已复制的属性
+Paste view properties	粘贴视图属性
+Phase	相位
+Pick Center	拾取中心
+Plot Over Time	绘制时间曲线
+Plugin Manager	插件管理器
+Plugins	插件
+Plus	加号
+Point	点
+Point 1	点 1
+Point 2	点 2
+Point Labels	点标签
+Port	端口
+Position	位置
+Position Control Points	位置控制点
+Precision:	精度：
+Preset	预设
+Preset name	预设名称
+Presets	预设
+Process	进程
+Properties Panel	属性面板
+Property	属性
+Property Link	属性关联
+Property Name	属性名称
+Radius	半径
+Range	范围
+Record	录制
+Reload Files	重新加载文件
+Remote Command	远程命令
+Remote Command Editor	远程命令编辑器
+Remote Plugins	远程插件
+Remove All	全部移除
+Remove Input	移除输入
+Remove Output	移除输出
+Remove Property	移除属性
+Remove all	全部移除
+Remove all entries	移除全部条目
+Remove all expressions	移除全部表达式
+Remove all points	移除全部点
+Remove all saved selections	移除全部已保存选区
+Remove current entry	移除当前条目
+Remove selected expressions	移除选中表达式
+Remove selected point(s)	移除选中点
+Rename	重命名
+Rename Window	重命名窗口
+Rename...	重命名…
+Render Views	渲染视图
+Rendering	渲染
+Rescale	重设范围
+Rescale Custom Range	设置自定义范围
+Rescale Temporal Range	按时间范围重设
+Rescale Visible Range	按可见范围重设
+Rescale to Custom Data Range	设置自定义数据范围
+Rescale to Data Range	按数据范围重设
+Rescale to Visible Data Range	按可见数据范围重设
+Rescale to custom range	设置自定义范围
+Rescale to data range	按数据范围重设
+Rescale to data range over all timesteps	按全部时间步的数据范围重设
+Rescale to visible range	按可见范围重设
+Reset All	全部重置
+Reset Bounds	重置边界范围
+Reset Camera	重置相机
+Reset Camera Closest	重置到最近相机方向
+Reset Camera to Axis	相机对齐轴向
+Reset Camera to Normal	相机对齐法向
+Reset Center	重置中心
+Reset Radius Size	重置半径
+Reset Range	重置范围
+Reset Session	重置会话
+Reset any unaccepted changes	重置尚未应用的更改
+Reset center of rotation	重置旋转中心
+Reset to Data Bounds	重置为数据边界
+Reset to Default Settings	恢复默认设置
+Resolution	分辨率
+Restore Default	恢复默认
+Right Button	鼠标右键
+Roll	滚转
+Rotate	旋转
+Rotate 90° clockwise	顺时针旋转 90°
+Rotate 90° counterclockwise	逆时针旋转 90°
+Rotation	旋转
+Rotation Factor	旋转系数
+Save Animation...	保存动画…
+Save Geometry...	保存几何…
+Save Catalyst State	保存 Catalyst 状态
+Save Catalyst State...	保存 Catalyst 状态…
+Save Data...	保存数据…
+Save Extracts	保存提取结果
+Save Extracts...	保存提取结果…
+Save Preset Options	保存预设选项
+Save Screenshot...	保存截图…
+Save Servers	保存服务器
+Save State	保存状态
+Save Window Arrangement...	保存窗口布局…
+Save and close	保存并关闭
+Save annotations	保存标注
+Save colors	保存颜色
+Save opacities	保存不透明度
+Save scene for all timesteps	保存全部时间步的场景
+Save to File...	保存到文件…
+Save to new preset	另存为新预设
+Save to preset	保存到预设
+Save to settings	保存到设置
+Scalars	标量
+Scale	缩放
+Scaling	缩放
+Script:	脚本：
+Search	搜索
+Search ... (use Esc to clear text)	搜索…（按 Esc 清空）
+Search in item list	在项目列表中搜索
+Select font	选择字体
+Selected	已选中
+Selected Data (none)	选中数据（无）
+Selection Color	选区颜色
+Selection Display	选区显示
+Selection Link	选区关联
+Selection Link Mode	选区关联模式
+Selectors	选择器
+Server	服务器
+Server Type	服务器类型
+Set Breakpoint	设置断点
+Set Range	设置范围
+Set font color	设置字体颜色
+Set font opacity	设置字体不透明度
+Set font size	设置字号
+Set reader as default	设为默认读取器
+Set view direction to +X	设置视角为 +X
+Set view direction to +Y	设置视角为 +Y
+Set view direction to +Z	设置视角为 +Z
+Set view direction to -X	设置视角为 -X
+Set view direction to -Y	设置视角为 -Y
+Set view direction to -Z	设置视角为 -Z
+Settings	设置
+Settings...	设置…
+Shadow	阴影
+Share mouse pointer	共享鼠标指针
+Show Atoms 	显示原子
+Show Bonds	显示化学键
+Show Box	显示包围盒
+Show Center	显示中心
+Show Color Legend	显示颜色图例
+Show Cylinder	显示圆柱
+Show Frame	显示框架
+Show Light	显示光源
+Show Line	显示直线
+Show Orientation Axes	显示方向坐标轴
+Show Outline and Intersection Edges	显示轮廓与相交边
+Show Plane	显示平面
+Show Point	显示点
+Show Sphere	显示球体
+Show Spline	显示样条曲线
+Show all source outputs in the pipeline	显示管线中全部数据源的输出
+Show all sources in selected view	在所选视图中显示全部数据源
+Show only selected elements.	仅显示选中元素。
+Show/Hide center of rotation	显示／隐藏旋转中心
+Show/Hide legend	显示／隐藏图例
+Show/Hide orientation axes	显示／隐藏方向坐标轴
+Show/hide color legend	显示／隐藏颜色图例
+Single color	单色
+Sinusoid	正弦曲线
+Skybox	天空盒
+Solid	实线
+Source	数据源
+Spline Interpolation	样条插值
+Square	正方形
+Standard Viewpoints	标准视点
+Starting Server	正在启动服务器
+Startup Type:	启动类型：
+Template:	模板：
+Time	时间
+Time Step	时间步
+Time Threshold:	时间阈值：
+Time:	时间：
+Timer Log	计时日志
+Toggle Color Legend Visibility	切换颜色图例显示
+Toggle column visibility	切换列显示
+Top Center	顶部居中
+Top Left Corner	左上角
+Top Right Corner	右上角
+Top-Left	左上
+Top-Right	右上
+Translate	平移
+Translation	平移
+Type:	类型：
+Up Direction	向上方向
+Use As Environment Lighting	用作环境光照
+Use Atom Color 	使用原子颜色
+Use Coordinates	使用坐标
+Use Current	使用当前值
+Use Log Scale When Mapping Data To Colors	颜色映射使用对数刻度
+Use Log Scale When Mapping Data To Opacity	不透明度映射使用对数刻度
+Use Reference Bounds	使用参考边界
+Use Regular Expression	使用正则表达式
+Use Separate Color Map	使用独立色彩映射
+Use Separate color map	使用独立色彩映射
+Use Window Location	使用窗口位置
+Use current	使用当前值
+Use current Camera	使用当前相机
+Use preset range	使用预设范围
+Use previous resolution	使用上次分辨率
+VCR Controls	动画播放控制
+Vectors	向量
+Verbosity Settings	日志详细程度设置
+View Angle	视角
+View Up	视图向上方向
+Viewpoint Name	视点名称
+Warm	暖色
+Weight	权重
+Welcome to ParaView	欢迎使用 ParaView
+X Axis	X 轴
+Y Axis	Y 轴
+Z Axis	Z 轴
+Zoom	缩放
+Zoom Closest To Data	缩放至最接近数据
+Zoom To Data	缩放至数据
+Zoom to Box	框选缩放
+[Select Parameter]	[选择参数]
+Project	项目
+No case loaded	尚未加载算例
+Files	文件
+Search files	搜索文件
+Expand to first level	展开第一级
+Collapse all	全部折叠
+New File...	新建文件…
+New Folder...	新建文件夹…
+Add to Chat	添加到对话
+Properties...	属性…
+File name:	文件名：
+New File	新建文件
+File names cannot contain path separators.	文件名不能包含路径分隔符。
+Invalid File Name	文件名无效
+File Already Exists	文件已存在
+Create Failed	创建失败
+Folder name:	文件夹名称：
+New Folder	新建文件夹
+Folder names cannot contain path separators.	文件夹名称不能包含路径分隔符。
+Invalid Folder Name	文件夹名称无效
+Folder Already Exists	文件夹已存在
+New name:	新名称：
+Names cannot contain path separators.	名称不能包含路径分隔符。
+Invalid Name	名称无效
+Name Conflict	名称冲突
+Rename Failed	重命名失败
+... and %1 more	…及另外 %1 项
+folder and all of its contents	文件夹及全部内容
+%1 selected items	选中的 %1 项
+Move to Recycle Bin	移到回收站
+Move to Recycle Bin Failed	移到回收站失败
+Move Failed	移动失败
+Copy Failed	复制失败
+Open or create a VibeFlow case first.	请先打开或新建 VibeFlow 算例。
+Restart the current terminal session	重启当前终端会话
+Select a screenshot region, save it under Ref/Screenshot, and add it to the terminal prompt	选择截图区域，保存到 Ref/Screenshot，并添加到终端提示词
+Insert a geometry-stage prompt into the terminal	向终端插入几何阶段提示词
+Insert a mesh-stage prompt into the terminal	向终端插入网格阶段提示词
+Insert a run-stage prompt into the terminal	向终端插入计算阶段提示词
+Insert a UDF development prompt into the terminal	向终端插入 UDF 开发提示词
+Insert a post-process-stage prompt into the terminal	向终端插入后处理阶段提示词
+Insert a report-stage prompt into the terminal	向终端插入报告阶段提示词
+Back to bottom	回到底部
+Decrease terminal font size	减小终端字号
+Increase terminal font size	增大终端字号
+Show or hide the terminal input area	显示或隐藏终端输入区
+New Terminal	新建终端
+Clear Screen	清屏
+Clear Scrollback	清除滚动历史
+Zoom In	放大
+Zoom Out	缩小
+Restart Current Terminal	重启当前终端
+Terminal %1	终端 %1
+VibeFlow Agent	VibeFlow 智能体
+&Alphabetical	按字母排序(&A)
+&Recent	最近使用(&R)
+&Favorites	收藏夹(&F)
+Search...	搜索…
+Time:	时间：
+Layout #%1	布局 #%1
+Layout #	布局 #
+Layout	布局
+Reset Camera	重置相机
+Reset view	重置视图
+Render View	渲染视图
+Spreadsheet View	数据表视图
+Recent Directories	最近目录
+Look in:	查找位置：
+File name	文件名
+Files of type:	文件类型：
+Show Hidden Files	显示隐藏文件
+Create New Folder	新建文件夹
+Up One Level	上一级
+All Files (*)	所有文件 (*)

@@ -1,0 +1,722 @@
+Extract Selection Range (internal)	提取选择范围（内部）
+Extract Cells Along Line	沿线提取单元
+Extract Cells Along Lines Custom Source	沿自定义线源提取单元
+Extract Selection (internal)	提取选区（内部）
+Extract Selection	提取选区
+Extract Cells By Type	按类型提取单元
+Extract Attributes	提取属性
+Merge Blocks	合并数据块
+Environment Annotation	环境信息标注
+Histogram	直方图
+Append Reduce	追加并归约
+Histogram 2D	二维直方图
+Transform	变换
+RotateAroundOriginTransform	绕原点旋转变换
+Recolorable Image	可重新着色图像
+Logo	徽标
+Camera	相机
+Miscellaneous	其他
+Color Palette	配色方案
+Save Screenshot	保存截图
+Orthographic Slice View	正交切片视图
+Line Chart View	折线图视图
+Point Chart View	散点图视图
+Quartile Chart View	四分位图视图
+Bar Chart View	柱状图视图
+Histogram View	直方图视图
+Box Chart View	箱线图视图
+Parallel Coordinates View	平行坐标视图
+Plot Matrix View	图表矩阵视图
+SpreadSheet View	数据表视图
+Eye Dome Lighting	穹顶光照
+Render View (Comparative)	渲染视图（对比）
+Line Chart View (Comparative)	折线图视图（对比）
+Bar Chart View (Comparative)	柱状图视图（对比）
+Slice View	切片视图
+Python View	Python 视图
+Bounded Plane	有界平面
+Bounded Volume	有界体域
+Extract Enclosed Points	提取封闭区域内的点
+SPH Interpolator	SPH 插值器
+SPH Line Interpolator	SPH 线插值器
+SPH Plane Interpolator	SPH 平面插值器
+SPH Volume Interpolator	SPH 体插值器
+SPH Dataset Interpolator	SPH 数据集插值器
+Point Interpolator	点插值器
+Point Line Interpolator	点线插值器
+Point Plane Interpolator	点平面插值器
+Point Volume Interpolator	点体插值器
+Point Dataset Interpolator	点数据集插值器
+Add Field Arrays	添加场数组
+Contingency Statistics	列联统计
+Descriptive Statistics	描述统计
+K Means	K 均值聚类
+Multicorrelative Statistics	多变量相关统计
+Principal Component Analysis	主成分分析
+Python Calculator	Python 计算器
+Annotate Attribute Data	属性数据标注
+Python Annotation	Python 标注
+Programmable Filter	可编程过滤器
+Programmable Annotation	可编程标注
+Programmable Source	可编程数据源
+Live Programmable Source	实时可编程数据源
+Plot Over Line	沿线绘图
+Resample To Line	重采样到直线
+Intersect Fragments	碎片相交
+Material Interface Filter	材料界面过滤器
+Save Animation	保存动画
+General	常规
+AMR Dual Clip	AMR 对偶裁剪
+AMR Contour	AMR 等值面
+AMR Fragment Integration	AMR 碎片积分
+AMR Connectivity	AMR 连通性
+Convert AMR dataset to Multi-block	AMR 数据集转为多块数据
+AMR CutPlane	AMR 平面切割
+Resample AMR	AMR 重采样
+Slice AMR data	AMR 数据切片
+AMR Fragments Filter	AMR 碎片过滤器
+Clean to Grid	清理并转为网格
+Clean Cells to Grid	清理单元并转为网格
+Extract Location	按位置提取
+Surface Flow	表面流动
+Iso Volume	等值体
+Plot On Sorted Lines	沿排序后的线绘图
+Convert Polyhedral Cells	转换多面体单元
+Clip Closed Surface	裁剪闭合表面
+Extract Component	提取分量
+Extract Subset	提取子集
+Glyph With Custom Source	使用自定义源的符号标记
+Linear Extrusion	线性拉伸
+Linear Cell Extrusion	单元线性拉伸
+Slice	切片
+Slice With Plane	平面切片
+Transpose Table	转置表格
+Rectilinear Grid Connectivity	直角网格连通性
+Bounding Ruler	包围范围标尺
+Slice Along PolyLine	沿折线切片
+Threshold Table	表格阈值筛选
+Surface Vectors	表面向量
+Time Step Progress Bar	时间步进度条
+Annotate Time Filter	时间标注过滤器
+OME TIFF Channel Calculator	OME TIFF 通道计算器
+Annotate Global Data	全局数据标注
+Merge Vector Components	合并向量分量
+Compute Connected Surface Properties	计算连通表面属性
+Equalizer Filter	均衡过滤器
+Hierarchical Fractal	层次分形
+Fast Uniform Grid	快速均匀网格
+Text	文本
+Annotate Time	时间标注
+Uniform Binning	均匀分箱
+Don't Merge Points	不合并点
+Octree Binning	八叉树分箱
+Static Point Locator	静态点定位器
+Cell Locator	单元定位器
+Tree Cell Locator	树形单元定位器
+OBB Tree Cell Locator	有向包围盒树单元定位器
+Static Cell Locator	静态单元定位器
+Blue Gray Background (Default)	蓝灰背景（默认）
+White Background	白色背景
+Warm Gray Background	暖灰背景
+Neutral Gray Background	中性灰背景
+Light Gray Background	浅灰背景
+Black Background	黑色背景
+Gradient Background	渐变背景
+Molecule To Lines	分子转为线
+Convert Into Molecule	转换为分子
+Compute Molecule Bonds	计算分子键
+Image Data To AMR	图像数据转为 AMR
+AMR GaussianPulse Source	AMR 高斯脉冲源
+Append Arc-Length	添加弧长
+Append Datasets	追加数据集
+Append Geometry	追加几何
+Clean	清理
+Slice (demand-driven-composite)	切片（按需复合数据）
+Connectivity	连通性
+Decimate Polyline	简化折线
+Decimate	网格简化
+Delaunay 2D	二维 Delaunay 三角剖分
+Delaunay 3D	三维 Delaunay 四面体剖分
+Feature Edges	特征边
+Generate Ids	生成编号
+Append Attributes	追加属性
+Append Molecule	追加分子
+Point Data to Cell Data	点数据转为单元数据
+Generate Surface Tangents	生成表面切向量
+Quadric Clustering	二次误差聚类
+Resample To Image	重采样为图像
+Resample With Dataset	使用数据集重采样
+Reverse Sense	反转朝向
+Smooth	平滑
+Triangle Strips	三角形带
+Outline Curvilinear DataSet	曲线网格数据集轮廓
+Tensor Glyph	张量符号标记
+Triangulate	三角剖分
+Tube	管状化
+Convert To MultiBlock	转换为多块数据
+Convert To PartitionedDataSetCollection	转换为分区数据集集合
+RenameArrays	重命名数组
+Data Object Generator	数据对象生成器
+Convert To Point Cloud	转换为点云
+Extract Block (Legacy)	提取数据块（旧版）
+Extract Block	提取数据块
+Extract AMR Blocks	提取 AMR 数据块
+Extract Edges	提取边
+Extract Cells By Region	按区域提取单元
+Extract Level (Legacy)	提取层级（旧版）
+Extract Ghost Cells	提取幽灵单元
+Extract Time Steps	提取时间步
+Extract Particles Over Time	随时间提取粒子
+BSP Tree Cell Locator	BSP 树单元定位器
+Evenly Spaced Streamlines 2D	二维等间距流线
+Stream Tracer	流线追踪
+Stream Tracer With Custom Source	使用自定义源的流线追踪
+Vortex Cores	涡核
+Pipeline Connection	管线连接
+Append Location Attributes	追加位置属性
+Block Scalars	数据块标量
+Random Vectors	随机向量
+Cell Centers	单元中心
+Compute Derivatives	计算导数
+Validate Cells	验证单元
+Count Cell Faces	统计单元面数
+Count Cell Vertices	统计单元顶点数
+Curvature	曲率
+Tetrahedralize	四面体剖分
+Finite Element Field Distributor	有限元场分配器
+Gradient Of Unstructured DataSet	非结构数据集梯度
+Image Data to Point Set	图像数据转为点集
+Group Datasets	数据集分组
+Group Time Steps	时间步分组
+Level Scalars(Overlapping AMR)	层级标量（重叠 AMR）
+Pass Through	直通
+Plot Data	绘制数据
+Scatter Plot	散点图
+Interpolate to Quadrature Points	插值到求积点
+Generate Quadrature Points	生成求积点
+Generate Quadrature Scheme Dictionary	生成求积方案字典
+Random Attributes	随机属性
+Rectilinear Data to Point Set	直角网格数据转为点集
+Shrink	收缩
+Merge Time	合并时间
+Synchronize Time	同步时间
+Table To Points	表格转为点
+Table To Structured Grid	表格转为结构网格
+Temporal Particles To Pathlines	时序粒子转为迹线
+Temporal Statistics	时间统计
+Tessellate	细分
+Perlin Noise	柏林噪声
+Warp By Scalar	按标量变形
+Warp By Vector	按向量变形
+Youngs Material Interface	Youngs 材料界面
+Deflect Normals	偏转法向量
+Animate Modes	振型动画
+Table FFT	表格快速傅里叶变换
+Axes	坐标轴
+Time Source	时间数据源
+Plot On Intersection Curves	沿相交曲线绘图
+Normal Glyphs	法向符号标记
+Clip Generic Dataset	裁剪通用数据集
+Contour Generic Dataset	通用数据集等值面
+Slice Generic Dataset	通用数据集切片
+Tessellate Generic Dataset	细分通用数据集
+Extract Generic Dataset Surface	提取通用数据集表面
+Outline Generic DataSet	通用数据集轮廓
+Stream Tracer For Generic Datasets	通用数据集流线追踪
+Extract Region Surface	提取区域表面
+Extract Surface	提取表面
+Image Data To Uniform Grid	图像数据转为均匀网格
+Probe Location	位置探测
+Plot Over Line Legacy	沿线绘图（旧版）
+Plot Over Lines From Custom Source	沿自定义源的线绘图
+Aggregate Dataset	聚合数据集
+Angular Periodic Filter	角度周期过滤器
+Extract CTH Parts	提取 CTH 部件
+Hyper Tree Grid Ghost Cells Generator	超树网格幽灵单元生成器
+Integrate Variables	变量积分
+Cell Data to Point Data	单元数据转为点数据
+Temporal Interpolator	时间插值器
+Mask Points	筛选点
+Outline Corners	轮廓角点
+Outline	轮廓
+Generate Surface Normals	生成表面法向量
+Reflect	镜像反射
+Process Id Scalars	进程编号标量
+Texture Map to Sphere	球面纹理映射
+Remove Ghost Information	移除幽灵单元信息
+Plot Global Variables Over Time	绘制全局变量时间曲线
+Plot Selection Over Time	绘制选区时间曲线
+Plot Data Over Time	绘制数据时间曲线
+Force Time	指定时间
+Temporal Array Operator	时间数组运算
+Temporal Cache	时间缓存
+Temporal Shift Scale	时间偏移与缩放
+Temporal Snap-to-Time-Step	时间对齐到时间步
+Generate Time Steps	生成时间步
+Temporal Cache Source	时间缓存源
+Hyper Tree Grid - Axis Reflection	超树网格 — 轴反射
+Hyper Tree Grid - Cell Centers	超树网格 — 单元中心
+Hyper Tree Grid - Depth Limiter	超树网格 — 深度限制
+Hyper Tree Grid - Geometry Filter	超树网格 — 几何过滤器
+HyperTreeGrid To Dual Grid	超树网格转为对偶网格
+HyperTreeGrid To UnstructuredGrid	超树网格转为非结构网格
+Loop Subdivision	Loop 细分
+Ribbon	带状化
+Rotational Extrusion	旋转拉伸
+PartitionedDataSetCollection Source	分区数据集集合源
+Arrow	箭头
+Unstructured Cell Types	非结构单元类型
+Cone	圆锥
+Box	长方体
+Cylinder	圆柱
+Disk	圆盘
+Ellipse	椭圆
+2D Glyph	二维符号标记
+Hyper Tree Grid	超树网格
+Line	直线
+Ruler	标尺
+Outline Source	轮廓源
+Plane	平面
+Point Source	点源
+Poly Line Source	折线源
+Poly Point Source	多点源
+Hyper Tree Grid (Random)	随机超树网格
+Sphere	球体
+Superquadric	超二次曲面
+Line Source	直线源
+Point Cloud	点云
+Fixed Radius Point Source	固定半径点源
+Compute Quartiles	计算四分位数
+Crop	裁切
+Color By Array	按数组着色
+Image Shrink	图像缩小
+Wavelet	小波
+Gradient Legacy	梯度（旧版）
+Gradient Magnitude	梯度模
+Gaussian Resampling	高斯重采样
+Mandelbrot	曼德勃罗集
+Extract Subset With Seed	使用种子提取子集
+Generate Global Ids	生成全局编号
+Ghost Cells Generator	幽灵单元生成器
+Redistribute DataSet	重新分配数据集
+Overlapping Cells Detector	重叠单元检测器
+Adaptive Resample To Image	自适应图像重采样
+Cell Size	单元尺寸
+Texture Map to Cylinder	圆柱纹理映射
+Texture Map to Plane	平面纹理映射
+Mesh Quality	网格质量
+3D Text	三维文本
+FFT Of Selection Over Time	选区时间序列快速傅里叶变换
+Remote Source Proxy	远程数据源代理
+Calculator	计算器
+Contour	等值线／等值面
+Clip	裁剪
+Threshold	阈值筛选
+Glyph	符号标记
+2D Interaction Options	二维交互选项
+2D Mouse Wheel Factor	二维鼠标滚轮系数
+2D Points	二维点
+2D Transfer Function Y-Axis Array	二维传递函数 Y 轴数组
+2D Transfer Function Y-Axis Array Component	二维传递函数 Y 轴数组分量
+3D Interaction Options	三维交互选项
+3D Mouse Wheel Factor	三维鼠标滚轮系数
+Amplitude	振幅
+Animation	动画
+Animation Options	动画选项
+Annotation	标注
+Appearance	外观
+Array Selection	数组选择
+Array Selections	数组选择
+Aspect Control	宽高比控制
+Atomic Numbers	原子序数
+Atomic Radii Array	原子半径数组
+Atomic Radius Type	原子半径类型
+Axis Display Properties	坐标轴显示属性
+Back End	后端
+Backface Styling	背面样式
+Background	背景
+Background 2	背景 2
+Background Color	背景颜色
+Background Properties	背景属性
+Background mode	背景模式
+Base Color	基础颜色
+Block Arrays	数据块数组
+Block Names	数据块名称
+Block Selectors	数据块选择器
+Blocks	数据块
+Border	边框
+Box Parameters	包围盒参数
+Box Styling	包围盒样式
+Cache mesh	缓存网格
+Camera 2D Manipulators	二维相机操作器
+Camera 3D Manipulators	三维相机操作器
+Cell Arrays	单元数组
+Cell Data Array to process	待处理的单元数据数组
+Cell Ids	单元编号
+Cell Label Font	单元标签字体
+Cell/Point Array Status	单元／点数组状态
+Center Longitude	中心经度
+Chart Title Properties	图表标题属性
+Clip Color	裁剪颜色
+Clip Type	裁剪类型
+Clipping Plane	裁剪平面
+Clipping Tolerance	裁剪容差
+Color + Opacity Settings	颜色与不透明度设置
+Color Bar Length	色标长度
+Color Bar Thickness	色标宽度
+Color By	着色依据
+Color by	着色依据
+Color By LOD Index	按 LOD 索引着色
+Color Discretization	颜色离散化
+Color Mapping Parameters	色彩映射参数
+Color Properties	颜色属性
+Color maps, color bar etc.	色彩映射、色标等
+Color/Opacity Map Range Options	颜色／不透明度映射范围选项
+Coloring	着色
+Column	列
+Column Array Status	列数组状态
+Column Arrays	列数组
+Compress output file	压缩输出文件
+Compute Q Criterion	计算 Q 判据
+Contour By	等值面依据
+Contrast	对比度
+Coords	坐标
+Crinkle clip	保留完整单元的裁剪
+Crinkle slice	保留完整单元的切片
+Cropping Parameters	裁切参数
+Custom Bounds and Range	自定义边界与范围
+Custom Shader Code	自定义着色器代码
+Cut Type	切割类型
+Cylinder Parameters	圆柱参数
+Data Processing Options	数据处理选项
+Data Range Label Format	数据范围标签格式
+Data Selection	数据选择
+Data Transform	数据变换
+Database Properties	数据库属性
+Decimation	简化
+Decompose polyhedra	分解多面体
+Dimensions setup	维度设置
+Directories	目录
+Distance	距离
+Draw Data Range Labels	绘制数据范围标签
+Draw background	绘制背景
+Edge Arrays	边数组
+Edge Styling	边样式
+Ellipitical Eccentricity	椭圆偏心率
+Elliptical Splats	椭圆点斑
+Empty Cell Value	空单元值
+Enable Live Connections	启用实时连接
+Enable Ray Tracing	启用光线追踪
+Enable fast preselection	启用快速预选
+End Time	结束时间
+End Time Step	结束时间步
+End Time Value	结束时间值
+Environment East	环境东方向
+Environment North	环境北方向
+Equalizer Points	均衡器控制点
+Extent to Resample	重采样范围
+Extraction Side	提取侧
+Face Arrays	面数组
+Face Properties	面属性
+Faces Array Name	面数组名称
+Field Arrays	场数组
+Field Error	场误差
+File Options	文件选项
+File Padding	文件序号补位
+File Pattern	文件匹配模式
+File Series	文件序列
+File name suffix	文件名后缀
+Fill Value	填充值
+Filter Expressions	过滤表达式
+First time step	首个时间步
+Font Properties	字体属性
+Font Size	字号
+Force 2D	强制二维
+Foreground	前景
+Frame Parameters	框架参数
+Frustum	视锥体
+GUI Font	界面字体
+Gaussian Exponent Factor	高斯指数系数
+Gaussian Opacity Array	高斯不透明度数组
+Gaussian Radius	高斯半径
+Gaussian Scale Array	高斯缩放数组
+Gaussian Splat Radius	高斯点斑半径
+General Options	常规选项
+General options	常规选项
+Global IDs	全局编号
+Global Options	全局选项
+Glyph Parameters	符号标记参数
+Glyph Source	符号标记源
+Glyph Transform	符号标记变换
+Glyph Type	符号标记类型
+Grids	网格
+HTG Rendering	超树网格渲染
+High Point	高端点
+Histogram Bounds from Input	使用输入的直方图边界
+Histogram Origin	直方图原点
+Histogram Spacing	直方图间距
+Hyper Tree Grid Clipper	超树网格裁剪器
+Hyper Tree Grid Slicer	超树网格切片器
+Ignore File Time	忽略文件时间
+Image Options	图像选项
+Initial Step Length	初始步长
+Input Array	输入数组
+Input Array for X-Axis	X 轴输入数组
+Input Array for Y-Axis	Y 轴输入数组
+Input File Pattern	输入文件匹配模式
+Input Scalars	输入标量
+Integration Parameters	积分参数
+Integration Step Unit	积分步长单位
+Intensity	强度
+Interactive Rendering Options	交互式渲染选项
+Interactive Selection	交互式选择
+Interactive Widget	交互控件
+Interpolation	插值
+Interpret Values As Categories	将数值解释为类别
+Intersect With	相交对象
+Invert Selection	反选
+Isosurfaces	等值面
+LOD Resolution	细节层次分辨率
+LOD Threshold	细节层次阈值
+LOD Values	细节层次数值
+LOD and Details control	细节层次与细节控制
+Label Properties	标签属性
+Label Size	标签大小
+Labels	标签
+Last time step	最后时间步
+Layer Thickness	层厚
+Legend	图例
+Legend Properties	图例属性
+Lighting	光照
+Lights	光源
+Line Parameters	直线参数
+Line width scaling factor	线宽缩放系数
+List timesteps according to controlDict	按 controlDict 列出时间步
+Live Frequency	实时更新频率
+Load Materials	加载材质
+Load Tracers	加载示踪粒子
+Load variables as doubles (Float64)	以双精度（Float64）加载变量
+Location Parameters	位置参数
+Locator Parameters	定位器参数
+Log File	日志文件
+Logo Position	徽标位置
+Low Point	低端点
+Mapping Data	数据映射
+Maps	映射
+Mask Array	掩码数组
+Masking	掩码处理
+Material	材料
+Material Fraction Threshold	材料体积分数阈值
+Max Iterations	最大迭代次数
+Max number of points per leaf	每个叶节点的最大点数
+Maximum Number of Blocks	最大数据块数
+Maximum Number of Iterations	最大迭代次数
+Maximum Number of Points	最大点数
+Maximum Number of Subdivisions	最大细分次数
+Maximum Step Length	最大步长
+Maximum Steps	最大步数
+Maximum Streamline Length	最大流线长度
+Merge Points	合并点
+Merge duplicated points in the slice	合并切片中的重复点
+Minimal Memory	最小内存模式
+Minimum Number Of Ghost Levels	最小幽灵层数
+Minimum Step Length	最小步长
+Mode Shapes	振型
+Mouse Wheel Options	鼠标滚轮选项
+Mouse Wheel Zooms To Cursor	滚轮缩放到光标位置
+Multi Cell Properties	多单元属性
+Non-Manifold Edges	非流形边
+Non-Manifold Traversal	非流形遍历
+Normalization Scheme	归一化方案
+Number Of IO Ranks	输入输出进程数
+Number of Bins	分箱数
+Number of Dimensions	维度数
+Number of Iterations	迭代次数
+Number of Sides	侧边数
+Number of Subdivisions	细分次数
+Number of levels	层级数
+Number of points per bucket	每桶点数
+OSPRay Material Library	OSPRay 材质库
+Only extract selected columns	仅提取选中列
+Orientation	方向
+Orientation Axes	方向坐标轴
+Orientation Vectors	方向向量
+Origin of rotation	旋转原点
+Output Array Name	输出数组名称
+Override Font	覆盖字体
+Parallel I/O Support	并行输入输出支持
+Parametric Function	参数函数
+Part Arrays	部件数组
+Particle Arrays	粒子数组
+Path Traced Environment	路径追踪环境
+Pedigree IDs	谱系编号
+Pedigree String IDs	谱系字符串编号
+Plane Bounds	平面边界
+Plane Parameters	平面参数
+Plane Type	平面类型
+Plot title	图表标题
+Point Arrays	点数组
+Point Cloud Parameters	点云参数
+Point Data Array to process	待处理的点数据数组
+Point Gaussian	高斯点
+Point Ids	点编号
+Point Label Font	点标签字体
+Point Locator	点定位器
+Point Merge Method	点合并方法
+Point Parameters	点参数
+Point size scaling factor	点大小缩放系数
+Point/Cell/Column Array Status	点／单元／列数组状态
+PointArrays	点数组
+Poly-line Parameters	折线参数
+Probe Type	探测类型
+Progressive Passes	渐进渲染轮数
+Properties Panel Options	属性面板选项
+Proportionally Distribute Maximum Number Of Points	按比例分配最大点数
+Quadrature Scheme Def	求积方案定义
+RGBA NaN Color	RGBA 非数值颜色
+RNG Seed	随机数种子
+Random Sampling	随机采样
+Random Sampling Mode	随机采样模式
+Range Label Format	范围标签格式
+Rasterize 3D geometry	栅格化三维几何
+Ray Traced Rendering	光线追踪渲染
+Ray Tracing	光线追踪
+Read zones	读取区域
+Recolorable Image Parameters	可重新着色图像参数
+Refinement Ratio	细化比例
+Reload	重新加载
+Remote/Parallel Rendering Options	远程／并行渲染选项
+Render Passes	渲染轮次
+Render text as paths	将文本渲染为路径
+Replace Invalid Results	替换无效结果
+Resample Field	重采样场
+Resampling Grid	重采样网格
+Result Array Type	结果数组类型
+Reverse Cells	反转单元
+Reverse Mouse Wheel Zoom Direction	反转鼠标滚轮缩放方向
+Reverse Normals	反转法向量
+Rigid Body Arrays	刚体数组
+Road Surface Arrays	路面数组
+Row Arrays	行数组
+Sampling Frequency, Hz	采样频率，Hz
+Save Extracts Options	保存提取结果选项
+Scalar Array	标量数组
+Scalar Coloring	标量着色
+Scalar Size	标量大小
+Scale Array	缩放数组
+Scale Factor	缩放系数
+Scale Function	缩放函数
+Scale Splats	缩放点斑
+Scaling Mode	缩放模式
+Seed Parameters	种子参数
+Seed Source	种子源
+Seed Type	种子类型
+Seeds	种子
+Select Mass Arrays	选择质量数组
+Select Material Fraction Arrays	选择材料体积分数数组
+Selection	选择
+Selection Criteria	选择条件
+Selection Options	选择选项
+Selection Qualifiers	选择限定条件
+Separating Distance	分离距离
+Separating Distance Ratio	分离距离比例
+Separator Options	分隔符选项
+Series Parameters	序列参数
+Set Arrays	集合数组
+Sets	集合
+Shell Arrays	壳单元数组
+Show Background	显示背景
+Size and Scaling	大小与缩放
+Skip Zero Time	跳过零时刻
+Slice Direction	切片方向
+Slice Offset Values	切片偏移值
+Slice Type	切片类型
+Slices Parameters	切片参数
+Slicing	切片
+Solid Arrays	实体数组
+Sort By X-Axis	按 X 轴排序
+Spacing (Gutter)	间距（栏间）
+Spatio-Temporal Controls	时空控制
+Spectrum Gain, dB	频谱增益，dB
+Sphere Parameters	球体参数
+Splat Accumulation Mode	点斑累积模式
+Spline Parameters	样条参数
+Start Position	起始位置
+Start Time	开始时间
+Start Time Step	开始时间步
+Start Time Value	开始时间值
+Stereo	立体显示
+Store Data in Subdirectory	将数据存入子目录
+Streamline Parameters	流线参数
+Stride	步幅
+Styling	样式
+Styling (Active Plot)	样式（当前图表）
+Surface	表面
+Tangent Array	切向量数组
+Temporal Cache Size	时间缓存大小
+Tensors	张量
+Terminal Speed	终止速度
+Text Position	文本位置
+Text/Annotation Font Properties	文本／标注字体属性
+Texture Coordinates	纹理坐标
+Thick Shell Arrays	厚壳单元数组
+Threshold Range	阈值范围
+Tick and Annotation Positions	刻度与标注位置
+Ticks Control	刻度控制
+Time Array	时间数组
+Time Step Indices	时间步索引
+Time Step Values	时间步数值
+Time Support	时间支持
+Time step stride	时间步步幅
+Title	标题
+Title Font Properties	标题字体属性
+Title Texts	标题文本
+Title and Labels Control	标题与标签控制
+Tolerance	容差
+Tone Mapping Options	色调映射选项
+Tooltip	工具提示
+Transforming	变换
+Translucent Rendering Options	半透明渲染选项
+Trigger	触发器
+Use 2D Mode	使用二维模式
+Use 2D Transfer Function	使用二维传递函数
+Use 3D Vectors	使用三维向量
+Use Ambient Occlusion	使用环境光遮蔽
+Use Default Presets	使用默认预设
+Use Double Precision Mesh	使用双精度网格
+Use Dual	使用对偶结构
+Use Gradient as Y-Axis Array	使用梯度作为 Y 轴数组
+Use HyperTree Grid (HTG) for AMR Mesh	AMR 网格使用超树网格（HTG）
+Use Opacity Array	使用不透明度数组
+Use Outline For LOD Rendering	细节层次渲染使用轮廓
+Use Scale Array	使用缩放数组
+Use Scale Transfer Function	使用缩放传递函数
+Variables	变量
+Variables of Interest	关注变量
+Vector Field	向量场
+Vertex Arrays	顶点数组
+Vertical Dimension	垂直维度
+VerticalVelocity	垂直速度
+Vertices Array Name	顶点数组名称
+View Options	视图选项
+Visibility Control	可见性控制
+Visible Data Range	可见数据范围
+Volume Arrays	体数据数组
+Volume Fraction Value	体积分数值
+Volume Opacity Array	体不透明度数组
+Volume Parameters	体参数
+Volume Refinement	体细化
+Volume Rendering	体渲染
+Whole Extent	完整范围
+Write Start	写入起始位置
+Write all timesteps as file-series	将全部时间步写为文件序列
+Write timesteps as file-series	将时间步写为文件序列
+X Array	X 数组
+Y Array	Y 数组
+Z Array	Z 数组
+X Extent	X 范围
+Y Extent	Y 范围
+Z Extent	Z 范围
+XML File Name	XML 文件名
+XY Coord Mode	XY 坐标模式
+XY Plane	XY 平面
