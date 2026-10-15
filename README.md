@@ -48,13 +48,13 @@ py -3 -m venv .venv
 如有额外的渲染兼容镜像，在 `check` 和首次 `install` 时传入镜像根目录：
 
 ```powershell
-.\.venv\Scripts\python.exe patch.py check --app "D:\Programs\VibeFlowStudio" --mirror "D:\vibeworking\VibeFlow-render\software"
-.\.venv\Scripts\python.exe patch.py install --app "D:\Programs\VibeFlowStudio" --mirror "D:\vibeworking\VibeFlow-render\software"
+.\.venv\Scripts\python.exe patch.py check --app "D:\Programs\VibeFlowStudio" --mirror "D:\Programs\VibeFlowStudio-render"
+.\.venv\Scripts\python.exe patch.py install --app "D:\Programs\VibeFlowStudio" --mirror "D:\Programs\VibeFlowStudio-render"
 ```
 
 这会同步六组二进制硬链接，总计 21 个目标路径。镜像需要已存在，且 `resources`、`share`、`bin\Lib` 已指向主安装的相应目录；工具不会创建渲染配置或修改启动器。没有此镜像就省略 `--mirror`。
 
-如果已安装此前的本地第一版／第二版，请先用对应旧安装器恢复原版，再使用本仓库工具。不要把已打补丁的文件作为原版输入，也不要在原有已安装环境上直接重复迁移安装器。
+如果已通过旧安装器安装第一版／第二版补丁，请先用对应旧安装器恢复原版，再使用本仓库工具。不要把已打补丁的文件作为原版输入，也不要在原有已安装环境上直接重复迁移安装器。
 
 ## 校验与卸载
 
